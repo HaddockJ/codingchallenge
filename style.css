@@ -1,0 +1,68 @@
+h1 {
+	color: white;
+	font-size:5em;
+	font-family: 'Martel', serif;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: 'Martel', serif;
+	font-weight: bold;
+}
+
+h2:after {
+	background-color: coral;
+	width: 200px;
+}
+
+h3 {
+	font-family: 'Martel', serif;
+	font-weight: bold;
+}
+
+h4 {
+	font-family: 'Martel', serif;
+	font-weight: bold;
+}
+
+.byline {
+	color: #b2fef3;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+
+.btn {
+	background-color: rgba(108, 186, 164, 0.5);
+	border: none;
+}
+
+.btn-big {
+	transform: scale(1.5);
+}
+
+.btn-default {
+	color: white;
+}
+
+.btn:hover {
+	background-color: rgba(108, 186, 164, 1); 
+	border: none;
+	color: white;
+}
+
+.section-half-background-image-container {
+  	background-color: #deede9;
+}
+
+.buffer {
+	height: 6rem;
+}
+
+.fineprint {
+	font-size: 1.5rem;
+}
+
+.footer-container {
+	background-color: #D1723C;
+}
